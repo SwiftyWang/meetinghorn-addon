@@ -702,7 +702,7 @@ end
 
 function LFG:MEETINGHORN_HIDE()
     if not self.current then
-      --  self.leaveTimer:Start(60)
+     --   self.leaveTimer:Start(60)
     end
 end
 
